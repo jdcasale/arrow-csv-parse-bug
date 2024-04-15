@@ -1,0 +1,8 @@
+[package]
+name = "repros"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+arrow-csv = "51.0.0"
+tempfile = "3.2.0"
